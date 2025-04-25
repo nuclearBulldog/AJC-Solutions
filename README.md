@@ -7,14 +7,14 @@
     <li>Download the following...
         <ul>
             <li>The PowerPoint File
-            <li>The Word document
+            <li>The text file
             <li>The Python file
         </ul>
     <li><h3>Afterwards</h3>
     <li> Open the Python file and add the following:</li>
 
     print('Hello my name is <YOUR NAME HERE>')
-    # Please put your actual name in here!
+    # Please put your actual name in the <> brackets!
 
 <li>Then please upload that file directly to the repository </li>
 
