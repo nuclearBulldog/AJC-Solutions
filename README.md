@@ -16,5 +16,5 @@
     print('Hello my name is <YOUR NAME HERE>')
     # Please put your actual name in here!
 
-    
-    
+<li>Then please upload that file directly to the repository </li>
+
