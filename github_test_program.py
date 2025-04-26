@@ -16,13 +16,11 @@ print('Your turn!')
 
 print()
 # Jayden
-print('Your name here')
+print('Hello my name is <Jayden>')
 
 print()
 # Aaron
 print('Your name here')
-
-print('Hi everyone my name is Aaron')
 
 print()
 
