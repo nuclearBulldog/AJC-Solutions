@@ -1,20 +1,21 @@
 # AJC Solutions
 
-<h2> Collaboration software 1 </h2>
+<h2> This is a test </h2>
 
 <h3>What I need to be done </h3>
 <ul>
-    <li>Download the following...
+    <li>This is a test
         <ul>
-            <li>The PowerPoint File
+            <li>This is also a test
             <li>The text file
             <li>The Python file
         </ul>
     <li><h3>Afterwards</h3>
-    <li> Open the Python file and add the following:</li>
+    <li><h1>However what you see below is NOT a test</h1></li>
+    Please add the following to the python file i have added
 
     print('Hello my name is <YOUR NAME HERE>')
     # Please put your actual name in the <> brackets!
 
-<li>Then please upload that file directly to the repository </li>
+Also a test
 
