@@ -1,6 +1,6 @@
-# GitHub Test program
+# Test program
 # Caleb Dellow, cad0489@arastudent.ac.nz
-# 25/04/2025
+# ##/##/####
 
 print('Hello, User!')
 
@@ -12,15 +12,15 @@ print()
 
 print('Your turn!')
 
-# Copy the code from the README, in the repo with your name added here.
+# Copy the code from the README, in the repo with your name added here, please remove angle brackets <>.
 
 print()
 # Jayden
-print('Hello my name is <Jayden>')
+print()
 
 print()
 # Aaron
-print('Hello my name is <Aaron>')
+print()
 
 print()
 
